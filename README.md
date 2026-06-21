@@ -24,6 +24,12 @@
    style="width: 100%">
 </p>
 
+<a href="#installation"><kbd>&emsp;<br>&emsp;Installation&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#usage"><kbd>&emsp;<br>&emsp;Usage&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#credits"><kbd>&emsp;<br>&emsp;Credits&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#license"><kbd>&emsp;<br>&emsp;License&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#contributing"><kbd>&emsp;<br>&emsp;Contributing&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+
 ## Repository Structure
 ```
 pywal-kando-theme/
@@ -34,6 +40,8 @@ pywal-kando-theme/
 ├── LICENSE -------------------------------- License for the repo
 └── README.md ------------------------------ Main README for the repo
 ```
+
+<a id="installation"></a>
 
 ## Installation
 > [!NOTE]
@@ -130,6 +138,7 @@ mv ./pywal-to-kando.sh ~/.local/bin/
 </details>
 
 
+<a id="usage"></a>
 
 ## Usage
 Usage is simple, and I've written the script to be compatable with as many distro's and WM's possible. 
@@ -154,12 +163,18 @@ bash /path/to/pywal-to-kando.sh
 > I have some additional notes about my usage [here](https://github.com/0lswitcher/bash-scripts/tree/main#pywal-wrapper), and you can \
 > also see the source code for my `pywal-wrapper.sh` script [here](https://github.com/0lswitcher/bash-scripts/blob/main/scripts/pywal-wrapper.sh).
 
+<a id="credits"></a>
+
 ## Credits
 This theme is a modified version of the [Nether Labels](https://github.com/kando-menu/menu-themes/tree/main/themes/nether-labels) theme by [elfi-ox](https://github.com/elfi-ox), \
 which itself is a modified version of the [Rainbow Labels](https://github.com/kando-menu/kando/tree/main/assets/menu-themes/rainbow-labels) by [Simon Schneegans](https://github.com/Schneegans).
 
+<a id="License"></a>
+
 ## License
 This repository is licensed under the [Unlicense License](LICENSE). (do whatever u want idc)
+
+<a id="contributing"></a>
 
 ## Contributing
 1. Fork the repo  
