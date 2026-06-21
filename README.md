@@ -111,11 +111,11 @@ git clone https://github.com/0lswitcher/pywal-kando-theme.git
 
 Move the `nether-labels` theme folder to your Kando's `menu-themes` directory:
 ```
-mv ./nether-labels ~/.config/kando/menu-themes/
+mv ./pywal-kando-theme/nether-labels ~/.config/kando/menu-themes/
 ```
 Or alternatively, if you installed Kando with Flatpak:
 ```
-mv ./nether-labels ~/.var/app/menu.kando.Kando/config/kando/menu-themes/
+mv ./pywal-kando-theme/nether-labels ~/.var/app/menu.kando.Kando/config/kando/menu-themes/
 ```
 
 Next, delete the now un-needed repository:
