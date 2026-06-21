@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="md-assets/pywal-kando-preview-cropped.gif"
-   style="width: 75%">
+   style="width: 100%">
 </p>
 
 ## Repository Structure
