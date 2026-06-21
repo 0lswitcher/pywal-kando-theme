@@ -24,11 +24,14 @@
    style="width: 100%">
 </p>
 
+<div align="center">
+<br>
 <a href="#installation"><kbd>&emsp;<br>&emsp;Installation&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
 <a href="#usage"><kbd>&emsp;<br>&emsp;Usage&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
 <a href="#credits"><kbd>&emsp;<br>&emsp;Credits&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
 <a href="#license"><kbd>&emsp;<br>&emsp;License&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
 <a href="#contributing"><kbd>&emsp;<br>&emsp;Contributing&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+</div>
 
 ## Repository Structure
 ```
