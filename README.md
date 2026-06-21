@@ -55,20 +55,24 @@ There are two methods for installing this script;
 Either method is viable, and the choice is a matter of preference.
 
 <details open>
-<summary><b>Click here</b> for Method 1...<h2>Method 1: <i>(Easy, high trust)</i></h2></summary>
-<br>
+<summary><b>Click here</b> for Method 1...</summary>
 
->[!WARNING]
-> Always check the contents of a script before running it! 
-> 
-> I obviously have nothing malicious in mine, but many bad actors are \
-> copying entire repositories, and swapping innocent install scripts for malicious ones.
-> 
-> I avoid writing install scripts for this reason, but this repo specifically called for one due to the level of installation steps.
-> 
-> Don't let yourself fall victim to a dumb ass virus because you were in a rush. \
-> Please be a good web-citizen and report any fake repositories you see. Thanks!
-> > If you want a quick further read on it: [Millions of Malicious Repositories Flood Github (Article)](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
+## Method 1: *(Easy, high trust)*
+
+<blockquote>
+<b>‼️ WARNING ‼️</b>
+
+Always check the contents of a script before running it! 
+
+I obviously have nothing malicious in mine, but many bad actors are \
+copying entire repositories, and swapping innocent install scripts for malicious ones.
+
+I avoid writing install scripts for this reason, but this repo specifically called for one due to the level of installation steps.
+
+Don't let yourself fall victim to a dumb ass virus because you were in a rush. \
+Please be a good web-citizen and report any fake repositories you see. Thanks!
+> If you want a quick further read on it: [Millions of Malicious Repositories Flood Github (Article)](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
+</blockquote>
 
 Run the script:
 ```
@@ -80,9 +84,6 @@ That's it!
 > Feel free to move it to another directory of your choosing!
 
 </details>
-<br>
-
-
 <br>
 
 <!---------------------------------------------------------------------------------------------------------->
