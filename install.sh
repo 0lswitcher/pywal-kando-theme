@@ -22,7 +22,7 @@ echo "Cloning repo for nether-labels theme..."
 git clone https://github.com/0lswitcher/pywal-kando-theme.git
 
 echo "Moving nether-labels/ directory to $CONFIG_DIR/nether-labels"
-mv ./nether-labels "$CONFIG_DIR/menu-themes/"
+mv ./pywal-kando-theme/nether-labels "$CONFIG_DIR/menu-themes/"
 
 echo "Deleting leftover repository files/directory"
 rm -R ./pywal-kando-theme
