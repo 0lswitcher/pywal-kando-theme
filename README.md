@@ -60,7 +60,7 @@ Either method is viable, and the choice is a matter of preference.
 ## Method 1: *(Easy, high trust)*
 
 <blockquote>
-<b>‼️ WARNING ‼️</b>
+<b>WARNING:</b>
 
 Always check the contents of a script before running it! 
 
